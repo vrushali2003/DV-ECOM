@@ -66,7 +66,7 @@ const Subscribe = () => {
         <div className="col-12 col-sm-12 col-md-8 col-lg-8 mt-md-5 mt-lg-5 p-md-5 p-lg-5">
           
 
-        <div className="row d-md-none d-lg-none">
+        <div className="row ">
             <div className="col-12 col-sm-12 col-md-12 col-lg-12 ">
               <p className="content">
                 Subscribe now to stay updated on our latest courses and
