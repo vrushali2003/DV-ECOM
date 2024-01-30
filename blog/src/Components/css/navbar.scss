@@ -1,0 +1,94 @@
+.Nav-container {
+  background-color: #f2f5f8;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+
+  .navbar-nav {
+    height: 60px;
+    display: flex;
+    align-items: center;
+   
+  }
+
+  .navbar-nav .nav-item .nav-link {
+    color: black;
+    font-weight: 600;
+  }
+
+  .nav-link {
+    margin-right: 12px;
+  }
+
+  .nav-item {
+    transition: background-color 0.3s, color 0.3s;
+    font-weight: bold;
+  }
+
+
+  .navbar-toggler:focus{
+  box-shadow: none;
+  border: none;
+  }
+
+  .icons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+ 
+  .favourite-icon,
+  .cart-icon,
+  .notification-icon,
+  .person_profile-icon {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px; 
+  }
+
+  .btn-login-nav {
+    border-radius: 0;
+    font-size: 10px;
+    font-weight: 300;
+    background-color: none;
+    display: flex;
+    align-items: center;
+  }
+
+  .user-name {
+    margin-right: 10px;
+    font-size: 15px;
+  }
+
+  .user-profile-picture {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+
+ 
+
+  .custom-mobile-align {
+    margin-left: 10%;
+    margin-right: 0;
+  }
+
+
+  @media (max-width: 576.98px) {
+    
+    .navbar-nav {
+      flex-direction: column;
+      align-items: stretch;
+     
+      height: 100vh;
+    }
+  .navbar-toggler img{
+    width: 15px;
+  }
+ 
+
+ 
+  }
+}

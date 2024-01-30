@@ -1,0 +1,236 @@
+.dv-about-org {
+  background-color: #e7f1ff;
+
+ .container{
+  padding-top: 7%;
+  padding-bottom: 7%;
+ }
+ 
+.h6{
+  color:blue;
+  font-weight: 600;
+  padding-bottom: 3%;
+}
+
+  .card {
+    background-color:rgb(13,94,244);
+    color: white;
+    border-radius: 15px;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    margin-bottom: 10%;
+    border: none;
+  }
+
+  .text {
+    text-align: center;
+   font-size: 14px;
+   font-weight:bold;
+   margin-top: 0%;
+   margin-bottom: 0%;
+  }
+  .card-title {
+    text-align: center;
+    font-weight: bold;
+  }
+  .logo-1 {
+    width: 50px;
+    height: 50px;
+    
+  }
+  .logo-2{
+    width: 50px;
+    height: 50px;
+   
+  }
+ 
+
+
+
+.hover-effect {
+  overflow: hidden;
+  position: relative;
+  transition: transform 0.3s ease; 
+}
+
+.hover-effect:hover {
+  transform: skew(-1deg);
+}
+
+.hover-image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+
+
+
+  .bottom-img {
+   
+    width: 18px;
+    height: 18px;
+  }
+
+  .column-style {
+  
+    background-color:rgb(13,94,244);
+    color: white;
+  padding-top: 2%;
+  padding-bottom: 2%;
+    text-align: center;
+    border-right: 1px solid white; 
+  }
+  .text-align{
+    text-align: justify;
+    font-size:17px;
+    padding-top:4%;
+    padding-bottom:4%;
+    color:rgb(98, 99, 100);
+    
+  }
+  .dv-para-style{
+font-weight: bold;
+  }
+  .w-100{
+   border-radius: 15px;
+  }
+  .panal-h2{
+    text-align: center;
+    font-weight: 600;
+  }
+  .span{
+    font-weight:100;
+  }
+  .dv-h5{
+    font-weight: 600;
+    
+  }
+ .playvedio{
+  width: 100%;
+ }
+  
+  .font-style{
+    font-weight: bolder;
+  }
+  .text-design{
+    
+    color:rgb(98, 99, 100);
+    
+  }
+  .col-style{
+    padding-left: 2%;
+  }
+  .padding-bottom{
+    padding-bottom: 5%;
+  }
+  @media (min-width: 320px) and (max-width: 768px) {
+    
+    .container{
+      padding-top: 35px;
+      padding-bottom: 35px;
+     }
+     .card {
+      background-color:rgb(13,94,244);
+      color: white;
+      border-radius: 12px;
+    
+      margin-bottom: 13%;
+      border: none;
+    }
+    .card-title {
+      text-align: center;
+      font-weight: bold;
+      font-size: 18px;
+      margin-bottom: 0%;
+    }
+    .text {
+      text-align: center;
+     font-size: 8px;
+   
+     margin-top: 0%;
+     margin-bottom: 0%;
+    }
+    .h6{
+      color:blue;
+      font-weight: 600;
+text-align: center;
+font-size: 12px;
+   margin-top: 50px;
+    }
+    .font-style{
+      font-weight: bold;
+      text-align: center;
+      font-size: 23px;
+    }
+    .text-align{
+      text-align:center;
+      font-size:10px;
+     
+      color:rgb(98, 99, 100);
+      
+    }
+    .logo-1 {
+      width: 35px;
+      height: 35px;
+     
+      
+      
+    }
+    .logo-2{
+      width: 34px;
+      height: 34px;
+     
+    }
+    .heading-h6{
+      font-weight: bold;
+      font-size: 15px;
+   
+      }
+
+      .text-design{
+    font-size: 10px;
+        color:rgb(98, 99, 100);
+        
+      }
+     
+      .col-style{
+        padding-left: 0%;
+        padding-right: 0%;
+      }
+      .playvedio{
+        display: none;
+       }
+       .dv-para-style{
+        font-weight: bold;
+        font-size: 10px;
+          }
+          
+  .bottom-img {
+  
+    width: 10px;
+    height: 10px;
+    
+  }
+  .padding-bottom{
+    padding-bottom: 0%;
+  }
+  .tickmark {
+    display: flex;
+   align-items:start;
+    
+  }
+  .panal-h2{
+    text-align: center;
+    font-weight: 600;
+    font-size: 15px;
+  }
+  .dv-h5{
+    
+    text-align: center;
+    font-size: 8px;
+    
+  }
+    
+  }
+}

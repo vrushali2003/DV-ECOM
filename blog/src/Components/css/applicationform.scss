@@ -1,0 +1,193 @@
+.dv-Application-form {
+  padding-top: 60px;
+
+  .para-1 {
+    text-align: center;
+    padding-bottom: 5px;
+    color: rgb(141, 139, 139);
+  }
+  .para {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+  }
+
+  .heading-1 {
+    padding-top: 30px;
+    text-align: center;
+    font-weight: bold;
+  }
+  .heading {
+    padding-top: 160px;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .my-button {
+    background-color: white;
+    color: blue;
+    border: none;
+    border-radius: 30px;
+    width: 150px;
+    height: 50px;
+
+    font-size: 22px;
+    font-weight: bold;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2),
+      0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  .my-button:hover {
+    background-color: #0247fe;
+    color: white;
+    border: 2px solid white;
+  }
+
+  .my-button-next {
+    background-color: #0247fe;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    width: 150px;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    font-size: 22px;
+    font-weight: bold;
+  }
+
+  .my-button-next:hover {
+    background-color: white;
+    color: #0247fe;
+    border: 2px solid #0247fe;
+  }
+
+  .center-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .blue-column {
+    background-color: blue;
+    color: white;
+  }
+
+  .white-column {
+    background-color: rgb(247, 244, 244);
+    color: black;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .input-container {
+    position: relative;
+  }
+  .icon {
+    position: absolute;
+    top: 50%;
+    left: 10px; 
+    transform: translateY(-50%);
+    z-index: 1;
+    width: 22px;
+    height: 22px;
+  }
+
+  .form-control {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+    background-color: white;
+    font-weight: 450;
+    color: #00000080;
+
+    padding-left: 40px; 
+    font-size: 16px;
+    border: none;
+  }
+
+  @media (min-width: 320px) and (max-width: 768px) {
+
+    padding-top:0%;
+    .heading-1 {
+      padding-top: 40px;
+      text-align: center;
+      font-weight: bold;
+    }
+    .para-1 {
+      text-align: center;
+      padding-bottom: 10px;
+      color: rgb(141, 139, 139);
+    }
+    .form-control {
+      padding-top: 10px;
+      padding-bottom: 10px;
+      margin-bottom: 30px;
+      background-color: white;
+     
+  
+      padding-left: 40px; 
+      font-size: 14px;
+      border: none;
+    }
+    .white-column {
+      background-color: rgb(247, 244, 244);
+      color: black;
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+    .my-button-next {
+      background-color: #0247fe;
+      color: white;
+      border: none;
+      border-radius: 30px;
+      width: 100px;
+      height: 40px;
+      margin-top: 10px;
+      margin-bottom: 40px;
+      font-size: 18px;
+      font-weight: bold;
+    }
+    .my-button {
+      background-color: white;
+      color: blue;
+      border: none;
+      border-radius: 30px;
+      width: 100px;
+      height: 40px;
+      margin-bottom: 30px;
+      font-size: 18px;
+      font-weight: bold;
+      box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2),
+        0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+    .heading {
+      padding-top: 35px;
+      text-align: center;
+      font-weight: bold;
+    }
+    .para {
+      text-align: center;
+      padding-top: 15px;
+      padding-bottom: 15px;
+     font-size: 13px;
+     
+    }
+    .para-1 {
+      text-align: center;
+      padding-bottom: 5px;
+      color: rgb(141, 139, 139);
+      font-size: 14px;
+    }
+    .heading-1 {
+      padding-top: 30px;
+      font-size: 25px;
+      text-align: center;
+      font-weight: bold;
+    }
+    
+
+
+
+  }
+}

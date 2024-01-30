@@ -1,0 +1,2440 @@
+{
+  "all_courses": [
+    {
+      "id": "1",
+      "imageKey": "sql.jpg",
+      "description2":"Through our initiatives, we aim to bridge educational gaps. We are committed to making a positive impact on education globally improve learning outcomes.",
+      "image":"sql.jpg",
+      "title": "Learn SQL – SQL Essential Training",
+      "ratings":"RATINGS.png",
+      "lesson": "8 Lessons",
+      "duration": "6 weeks",
+      "level": "Beginner",
+      "author": "by Dataventics",
+      "fees": "tag.webp",
+      "category": "Technology",
+      "priceLevel":"free",
+      "description": "After successfully completion of course, Quizes, Practical Performance you will receive a Certificate of Completion. Which will be the proof of that you have completed the courses successfully and you know the fundamentals of the courses.",
+      "price": "RS.399/-",
+      "instructor": "Vineet & Khijendra",
+      "totalLessons": 10,
+      "courseDuration": "40 hrs",
+      "courseLevel": "Beginners",
+      "language": "English",
+      "users": "50k+users",
+      "video" :"htmlvedio.mp4",
+      "accordionData": [
+      {
+       
+        "header": "Introduction to Power BI",
+        "body": [
+          "Introduction to Business Intelligence (BI)",
+          "Stages of business intelligence (BI)",
+          "Use cases of BI",
+          "Various BI tools",
+          "Overview of Data warehouse & concepts",
+          "Introduction to Power BI",
+          "Why Power BI",
+          "Power BI Components",
+          "Power BI pricing structure",
+          "Building blocks of Power BI",
+          "Architecture of Power BI",
+          "Introduction of Power BI Desktop",
+          "Installation of Power BI Desktop",
+          "The key features of Power BI workflow",
+          "Process of creating reports in Power BI"
+        ]
+      },
+      {
+        "header": "DATA MODELLING",
+        "body": [
+        "Introduction of relationships",
+        "Creating relationships",
+        "Cardinality",
+        "Cross filter direction",
+        "Inactive relationships"
+        
+        ]
+      },
+      {
+        "header": "DAX",
+        "body": [
+          "Introduction of DAX",
+          "Why DAX is used",
+          "DAX syntax",
+          "DAX functions",
+          "Context in DAX",
+          "Calculated columns using DAX",
+          "Measures using DAX",
+          "Calculated tables using DAX",
+          "Learning about table, information, logical, text, iterator",
+          "Cumulative values, calculated tables, and ranking and rank over groups",
+          "Date and time functions"
+        ]
+      },
+      {
+        "header": "DATA VISUALIZATION WITH ANALYTICS",
+        "body": [
+        "Deep dive into Power BI data visualization",
+        "Data visualization techniques",
+        "Page layout & Formatting",
+        "Power BI Desktop visualization",
+        "Formatting and customizing visuals",
+        "Visualization interaction",
+        "Custom visualization in Power BI"
+      ]
+      },
+      {
+        "header": "MOBILE APPS",
+        "body": [
+          "Downloading Power BI Mobile App",
+          "Creating Mobile App",
+          "Customize Mobile App",
+          "Publishing App"
+
+        ]
+      },
+      {
+        "header": "POWER BI SERVICE",
+        "body": [
+          "Creating a Service Account.",
+          "Publish and Share Reports",
+          "Create a Public Link.",
+          "Create an App Workspace",
+         " Grant Access on Workspace",
+        "  View Quick Insights",
+         " Creating Dashboards",
+          "Adding Text Widget",
+          "Adding Image Widget",
+          "Adding Video Widget",
+          "Explore Q&A"
+        ]
+      },
+      {
+        "header": "SUBSCRIPTIONS a RLS(Row Level Security)",
+        "body": [
+          "Creating Subscriptions in Power Bl",
+          "Installing Data Gateway",
+          "Configure Data Gatewa",
+          "Scheduled Data Refresh",
+          "Grant Access to Objects",
+          "Creating Roles",
+          "Role Impersonation",
+          "Publish Report to Service Account",
+          "Assign User(s) to Roles",
+          "Share the Report"]
+      },
+      {
+        "header": "SQL FUNCTIONS & PREDICATES",
+        "body": [
+          "SQL Functions",
+          "Aggregate Functions",
+          "String Functions",
+          "Date & Time Functions",
+          "SQL Predicates"
+        ]
+      },
+      {
+        "header": "SQL Join Types",
+        "body": [
+          "Creating and Altering table in SQL",
+          "Data Definition Language Commands",
+          "CREATE, DROP, ALTER, TRUNCATE"
+        ]
+      },
+      {
+        "header": "NULL VALUES & Set Operations",
+        "body": ["NULL Values"]
+      },
+      {
+        "header": "SQL Indexes",
+        "body": ["SQL Indexes", "CREATE Indexes", "Type of Indexes", "DROP Indexes"]
+      },
+      {
+        "header": "SQL Views",
+        "body": [
+          "SQL Views",
+          "CREATE View",
+          "INSERT rows into View",
+          "SELECT rows into view",
+          "DROP View",
+          "Wildcard Operators in SQL"
+        ]
+      },
+      {
+        "header": "Subqueries in SQl",
+        "body": [
+          "Subquery with SELECT",
+          "Subquery with INSERT",
+          "Subquery with WHERE",
+          "Subquery with DELETE",
+          "Subquery with UPDATE"
+        ]
+      }
+    ]
+  },
+    {"id": "2",
+    "imageKey": "1.webp",
+    "priceLevel":"paid",
+    "image":"1.webp",
+    "title": "Healthcare Professional Courses Training",
+    "lesson": "8 Lessons",
+    "duration": "6 weeks",
+    "level": "Beginner",
+    "author": "by Dataventics",
+    "fees": "tag.webp",
+    "category": "Health",
+    "ratings":"RATINGS.png",
+     "description2":"Through our initiatives, we aim to bridge educational gaps. We are committed to making a positive impact on education globally improve learning outcomes.",
+     "description": "After successfully completion of course, Quizes, Practical Performance you will receive a Certificate of Completion. Which will be the proof of that you have completed the courses successfully and you know the fundamentals of the courses.",
+    "price": "RS.399/-",
+    "instructor": "Vineet & Khijendra",
+    "totalLessons": 10,
+    "courseDuration": "40 hrs",
+    "courseLevel": "Beginners",
+    "language": "English",
+    "users": "50k+users",
+    "video" :"htmlvedio.mp4",
+    "accordionData": [
+      {
+       
+        "header": "Introduction to Healthcare Profession",
+        "body": [
+          "Overview of the Healthcare System","Understanding healthcare delivery models",
+          "Healthcare organizations and their structures","Key stakeholders in healthcare",
+          " Professional Ethics and Communication","Ethical principles in healthcare",
+          "Effective communication skills","Cultural competence and diversity in healthcare"
+        ]
+      },
+      {
+        "header": "Anatomy and Physiology",
+        "body": [
+          "Human Anatomy","Overview of major body systems",
+          "Organ structure and function","Anatomical terminology"," Human Physiology",
+          "Cellular functions","Homeostasis and physiological regulation",
+          "Common physiological processes"        
+        ]
+      },
+      {
+        "header": "Medical Terminology and Documentation",
+        "body": [
+         "Medical Terminology","Understanding medical prefixes, suffixes, and roots",
+         "Building and interpreting medical terms","Medical abbreviations and symbols",
+         " Documentation in Healthcare","Importance of accurate documentation",
+         "Electronic health records (EHRs)",
+         "Legal and ethical aspects of healthcare documentation"        ]
+      },
+      {
+        "header": "Patient Assessment and Vital Signs",
+        "body": [
+          "Physical Assessment","Techniques for physical examination",
+          "Assessment of different body systems", "Recognizing abnormal findings",
+          "Vital Signs Monitoring","Measuring and interpreting vital signs",
+          "Assessing and responding to changes in vital signs","Documentation of vital signs"
+      ]
+      },
+      {
+        "header": "Pharmacology and Medication Administration",
+        "body": [
+         "Introduction to Pharmacology","Drug classifications and actions",
+          "Routes of drug administration", "Pharmacokinetics and pharmacodynamics",
+          " Medication Administration","Safe medication practices","Dosage calculations","Patient education on medications"
+
+
+        ]
+      },
+      {
+        "header": "Infection Control and Prevention",
+        "body": [
+          "Principles of Infection Control","Chain of infection",
+          " Standard precautions", "Sterilization and disinfection",
+          "Preventing Healthcare-Associated Infections (HAIs)",
+          "Strategies for preventing HAIs",
+          "Hand hygiene and personal protective equipment",
+          "Surveillance and reporting of infections"
+        ]
+      },
+      {
+        "header": "Healthcare Technology and Equipment",
+        "body": [
+          "Medical Equipment and Devices","Introduction to common medical equipment",
+          "Operation and maintenance of healthcare devices",
+          "Ensuring patient safety with equipment use",
+          "Health Information Technology",
+          "Electronic health records (EHRs)",
+          "Telemedicine and virtual care",
+          "Healthcare data security and privacy"]
+      },
+      {
+        "header": "Interprofessional Collaboration and Teamwork",
+        "body": [
+          "Collaboration in Healthcare Teams",
+          "Roles and responsibilities of healthcare team members",
+          "Effective communication within interdisciplinary teams",
+          "Resolving conflicts in healthcare settings",
+          "Patient-Centered Care",
+          "Patient advocacy",
+          "Cultural competence in patient care",
+          "Shared decision-making with patients"
+        ]
+      },
+      {
+        "header": "Professional Development and Continuing Education",
+        "body": [
+          "Lifelong Learning in Healthcare",
+          "Importance of continuing education",
+          "Professional development opportunities",
+          "Staying current with healthcare trends and research",
+          "Career Planning and Advancement",
+
+          "Building a career in healthcare",
+          "Setting professional goals",
+          "Strategies for career advancement"
+        ]
+      },
+      {
+        "header": "Legal and Ethical Issues in Healthcare",
+        "body": ["Healthcare Laws and Regulations",
+        "Overview of healthcare laws",
+        "Regulatory agencies and their roles",
+        "Legal responsibilities of healthcare professionals",
+        "Ethical Dilemmas in Healthcare",        
+        "Ethical decision-making frameworks",
+        "Handling ethical challenges in patient care",
+        "Bioethical issues in healthcare"
+      ]
+    
+    }]},
+    {
+      "id": "3",
+    "imageKey": "webdevcourse.png",
+    "title": "Learn Web Development-Full Stack Essential Training",
+    "lesson": "9 Lessons",
+    "duration": "6 weeks",
+    "ratings":"RATINGS.png",
+    "level": "Beginner",
+    "author": "by Dataventics",
+    "priceLevel":"free",
+    "fees": "tag.webp",
+    "category": "Development",
+    
+    "description": "After successfully completion of course, Quizes, Practical Performance you will receive a Certificate of Completion. Which will be the proof of that you have completed the courses successfully and you know the fundamentals of the courses.",
+    "price": "RS.399/-",
+    "instructor": "Vineet & Khijendra",
+    "totalLessons": 10,
+    "courseDuration": "40 hrs",
+    "courseLevel": "Beginners",
+    "language": "English",
+    "users": "50k+users",
+    "description2":"Through our initiatives, we aim to bridge educational gaps. We are committed to making a positive impact on education globally improve learning outcomes.",
+    "video" :"htmlvedio.mp4",
+    "accordionData": [
+      {
+       
+        "header": "Front-End Development",
+        "body": [
+          "HTML/CSS for Structuring web pages and styling.",
+          "JavaScript for Fundamentals of the language.",
+          "DOM manipulation.",
+          "Asynchronous programming (Promises, Async/Await).",
+          "AJAX and Fetch API for data retrieval.",
+          "Responsive Web Design with CSS Grid and Flexbox, Media queries ",
+          "Version Control with Git and GitHub.",
+          "Basics of Front-End Frameworks in React, Angular, or Vue.js."
+        ]
+      },
+      {
+        "header": "Back-End Development",
+        "body": [
+          "Server-Side Programming: Node.js, Python (Django/Flask), Ruby (Ruby on Rails), or Java (Spring Boot).",
+          "Database Management: SQL (MySQL, PostgreSQL) and/or NoSQL (MongoDB).","API Development: RESTful API design principles & GraphQL.",
+          "Authentication and Authorization: JWT (JSON Web Tokens) & OAuth"
+        ]
+      },
+      {
+        "header": "Database Design and Management",
+        "body": [
+         "Relational Database Management System (RDBMS): Database design principles & SQL queries and optimization.",
+         "NoSQL Databases: MongoDB or similar.",
+         "ORM (Object-Relational Mapping): Sequelize (for Node.js), SQLAlchemy (for Python), or Hibernate (for Java)."        ]
+      },
+      {
+        "header": "Server Deployment and Hosting",
+        "body": [
+          "Cloud Platforms: AWS, Azure, or Google Cloud.","Containerization and Orchestration: Docker and Kubernetes.",
+          "Continuous Integration/Continuous Deployment (CI/CD): Jenkins, GitLab CI, or Travis CI."
+      ]
+      },
+      {
+        "header": " Full-Stack Frameworks",
+        "body": [
+         "MERN Stack (MongoDB, Express.js, React, Node.js) or MEAN Stack (MongoDB, Express.js, Angular, Node.js): Building end-to-end applications using a specific stack."
+
+
+        ]
+      },
+      {
+        "header": "Testing",
+        "body": [
+          "Unit Testing: Jest (for JavaScript/Node.js), pytest (for Python), JUnit (for Java).","Integration Testing: Supertest, Flask-Testing, or similar."
+        ]
+      },
+      {
+        "header": "Security Best Practices",
+        "body": [
+          "Web Application Security: Cross-Site Scripting (XSS), Cross-Site Request Forgery (CSRF), etc.",
+          "HTTPS and SSL/TLS: Certificate management."]
+      },
+      {
+        "header": "Performance Optimization",
+        "body": [
+          "Front-End Performance: Code splitting, lazy loading, and image optimization.",
+          "Back-End Performance: Caching strategies, load balancing."
+        ]
+      },
+      {
+        "header": " DevOps and Collaboration",
+        "body": [
+          "Collaboration Tools: Slack, Jira, Confluence, etc.",
+          "Agile Development: Scrum or Kanban methodologies."
+        ]
+      },
+      {
+        "header": "Real-World Project",
+        "body": ["Capstone Project: Apply all the learned concepts to build a full-scale web application."
+      ]
+    
+    }]},
+    {
+      "id": "4",
+    "imageKey": "uiuxcourse.png",
+    "title": "Learn Figma – UI/UX Design Essential Training",
+    "lesson": "8 Lessons",
+    "duration": "2 weeks",
+    "ratings":"RATINGS.png",
+    "level": "Beginner",
+    "author": "by Dataventics",
+    "priceLevel":"paid",
+    "fees": "tag.webp",
+    "category": "Design",
+    
+    "description": "After successfully completion of course, Quizes, Practical Performance you will receive a Certificate of Completion. Which will be the proof of that you have completed the courses successfully and you know the fundamentals of the courses.",
+    "price": "RS.399/-",
+    "instructor": "Vineet & Khijendra",
+    "totalLessons": 10,
+    "description2":"Through our initiatives, we aim to bridge educational gaps. We are committed to making a positive impact on education globally improve learning outcomes.",
+     "courseDuration": "40 hrs",
+    "courseLevel": "Beginners",
+    "language": "English",
+"users": "50k+users",
+"video" :"htmlvedio.mp4",
+"accordionData": [
+  {
+   
+    "header": "Introduction to UI-UX Design",
+    "body": [
+      "Fundamentals of UI-UX Design","Understanding the basics of user interface and user experience",
+      "Importance of good design in digital products",
+      "Historical context and evolution of UI-UX design",
+      " UX Research and Analysis", "User research methodologies",
+      "Creating user personas and user journeys",
+      "Competitive analysis and benchmarking"
+    ]
+  },
+  {
+    "header": "UI-UX Design Tools",
+    "body": [
+      "Introduction to Design Software",
+      "Overview of popular design tools (e.g., Adobe XD, Figma, Sketch)","Hands-on practice with design software",
+      "Prototyping and Wireframing","Creating wireframes for different screen sizes",
+      "Prototyping interactions and animations"
+    ]
+  },
+  {
+    "header": "Information Architecture",
+    "body": [
+     "Site Mapping and Navigation",
+     "Understanding site structure and information hierarchy",
+     "Navigation design principles", 
+    "Content Strategy","Planning and organizing content for effective user engagement",
+    "Content-first design approach"]
+  },
+  {
+    "header": " UI Design Principles",
+    "body": [
+      "Color Theory and Typography",
+      "Importance of color and typography in UI design",
+      "Creating a harmonious visual hierarchy","Iconography and Imagery", 
+      "Effective use of icons in UI","Image selection and optimization"
+  ]
+  },
+  {
+    "header": "Interaction Design",
+    "body": [
+     "Microinteractions",
+     "Designing small, delightful interactions",
+     "Feedback and animation principles"
+
+    ]
+  },
+  {
+    "header": "Testing",
+    "body": [
+      "Unit Testing: Jest (for JavaScript/Node.js), pytest (for Python), JUnit (for Java).","Integration Testing: Supertest, Flask-Testing, or similar."
+    ]
+  },
+  {
+    "header": "Security Best Practices",
+    "body": [
+      "Web Application Security: Cross-Site Scripting (XSS), Cross-Site Request Forgery (CSRF), etc.",
+      "HTTPS and SSL/TLS: Certificate management."]
+  },
+  {
+    "header": "Performance Optimization",
+    "body": [
+      "Front-End Performance: Code splitting, lazy loading, and image optimization.",
+      "Back-End Performance: Caching strategies, load balancing."
+    ]
+  },
+  {
+    "header": " DevOps and Collaboration",
+    "body": [
+      "Collaboration Tools: Slack, Jira, Confluence, etc.",
+      "Agile Development: Scrum or Kanban methodologies."
+    ]
+  },
+  {
+    "header": "Real-World Project",
+    "body": ["Capstone Project: Apply all the learned concepts to build a full-scale web application."
+  ]
+
+}]},
+    {
+      "id": "5",
+      "imageKey": "sql.jpg",
+      "image":"sql.jpg",
+      "title": "Learn SQL – SQL Essential Training",
+      "lesson": "8 Lessons",
+      "duration": "6 weeks",
+      "level": "Beginner",
+      "author": "by Dataventics",
+      "fees": "tag.webp",
+      "category": "Technology",
+      "priceLevel":"free",
+      
+      "ratings":"RATINGS.png",
+       "description2":"Through our initiatives, we aim to bridge educational gaps. We are committed to making a positive impact on education globally improve learning outcomes.",
+       "description": "After successfully completion of course, Quizes, Practical Performance you will receive a Certificate of Completion. Which will be the proof of that you have completed the courses successfully and you know the fundamentals of the courses.",
+      "price": "RS.399/-",
+      "instructor": "Vineet & Khijendra",
+      "totalLessons": 10,
+      "courseDuration": "40 hrs",
+      "courseLevel": "Beginners",
+      "language": "English",
+      "users": "50k+users",
+      "video" :"htmlvedio.mp4",
+      "accordionData": [
+        {
+         
+          "header": "Introduction to Power BI",
+          "body": [
+            "Introduction to Business Intelligence (BI)",
+            "Stages of business intelligence (BI)",
+            "Use cases of BI",
+            "Various BI tools",
+            "Overview of Data warehouse & concepts",
+            "Introduction to Power BI",
+            "Why Power BI",
+            "Power BI Components",
+            "Power BI pricing structure",
+            "Building blocks of Power BI",
+            "Architecture of Power BI",
+            "Introduction of Power BI Desktop",
+            "Installation of Power BI Desktop",
+            "The key features of Power BI workflow",
+            "Process of creating reports in Power BI"
+          ]
+        },
+        {
+          "header": "DATA MODELLING",
+          "body": [
+          "Introduction of relationships",
+          "Creating relationships",
+          "Cardinality",
+          "Cross filter direction",
+          "Inactive relationships"
+          
+          ]
+        },
+        {
+          "header": "DAX",
+          "body": [
+            "Introduction of DAX",
+            "Why DAX is used",
+            "DAX syntax",
+            "DAX functions",
+            "Context in DAX",
+            "Calculated columns using DAX",
+            "Measures using DAX",
+            "Calculated tables using DAX",
+            "Learning about table, information, logical, text, iterator",
+            "Cumulative values, calculated tables, and ranking and rank over groups",
+            "Date and time functions"
+          ]
+        },
+        {
+          "header": "DATA VISUALIZATION WITH ANALYTICS",
+          "body": [
+          "Deep dive into Power BI data visualization",
+          "Data visualization techniques",
+          "Page layout & Formatting",
+          "Power BI Desktop visualization",
+          "Formatting and customizing visuals",
+          "Visualization interaction",
+          "Custom visualization in Power BI"
+        ]
+        },
+        {
+          "header": "MOBILE APPS",
+          "body": [
+            "Downloading Power BI Mobile App",
+            "Creating Mobile App",
+            "Customize Mobile App",
+            "Publishing App"
+  
+          ]
+        },
+        {
+          "header": "POWER BI SERVICE",
+          "body": [
+            "Creating a Service Account.",
+            "Publish and Share Reports",
+            "Create a Public Link.",
+            "Create an App Workspace",
+           " Grant Access on Workspace",
+          "  View Quick Insights",
+           " Creating Dashboards",
+            "Adding Text Widget",
+            "Adding Image Widget",
+            "Adding Video Widget",
+            "Explore Q&A"
+          ]
+        },
+        {
+          "header": "SUBSCRIPTIONS a RLS(Row Level Security)",
+          "body": [
+            "Creating Subscriptions in Power Bl",
+            "Installing Data Gateway",
+            "Configure Data Gatewa",
+            "Scheduled Data Refresh",
+            "Grant Access to Objects",
+            "Creating Roles",
+            "Role Impersonation",
+            "Publish Report to Service Account",
+            "Assign User(s) to Roles",
+            "Share the Report"]
+        },
+        {
+          "header": "SQL FUNCTIONS & PREDICATES",
+          "body": [
+            "SQL Functions",
+            "Aggregate Functions",
+            "String Functions",
+            "Date & Time Functions",
+            "SQL Predicates"
+          ]
+        },
+        {
+          "header": "SQL Join Types",
+          "body": [
+            "Creating and Altering table in SQL",
+            "Data Definition Language Commands",
+            "CREATE, DROP, ALTER, TRUNCATE"
+          ]
+        },
+        {
+          "header": "NULL VALUES & Set Operations",
+          "body": ["NULL Values"]
+        },
+        {
+          "header": "SQL Indexes",
+          "body": ["SQL Indexes", "CREATE Indexes", "Type of Indexes", "DROP Indexes"]
+        },
+        {
+          "header": "SQL Views",
+          "body": [
+            "SQL Views",
+            "CREATE View",
+            "INSERT rows into View",
+            "SELECT rows into view",
+            "DROP View",
+            "Wildcard Operators in SQL"
+          ]
+        },
+        {
+          "header": "Subqueries in SQl",
+          "body": [
+            "Subquery with SELECT",
+            "Subquery with INSERT",
+            "Subquery with WHERE",
+            "Subquery with DELETE",
+            "Subquery with UPDATE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "imageKey": "Finance-and-Accounting.webp",      
+      "image":"Finance-and-Accounting.webp",
+      "title": "Financial Management of Project Training",
+      "lesson": "8 Lessons",
+      "priceLevel":"paid",
+      "duration": "6 weeks",
+      "level": "Beginner",
+      "author": "by Dataventics",
+      "fees": "tag.webp",
+      "category": "Finance",
+      
+      "ratings":"RATINGS.png",
+       "description2":"Through our initiatives, we aim to bridge educational gaps. We are committed to making a positive impact on education globally improve learning outcomes.",
+       "description": "After successfully completion of course, Quizes, Practical Performance you will receive a Certificate of Completion. Which will be the proof of that you have completed the courses successfully and you know the fundamentals of the courses.",
+      "price": "RS.399/-",
+      "instructor": "Vineet & Khijendra",
+      "totalLessons": 10,
+      "courseDuration": "40 hrs",
+      "courseLevel": "Beginners",
+      "language": "English",
+      "users": "50k+users",
+      "video" :"htmlvedio.mp4",
+      "accordionData": [
+        {
+         
+          "header": "Financial Management & Investment Management",
+          "body": [
+            "Corporate Finance",
+            "Financial Risk Management",
+            "Working Capital Management",
+            "Portfolio Management",
+            "Asset Management",
+            "Investment Banking"]
+        },
+        {
+          "header": "Financial Analysis & Financial Markets and Instruments",
+          "body": [
+          "Financial Statement Analysis",
+          "Credit Analysis",
+          "Quantitative Methods in Finance",
+          "Equity Markets",
+          "Fixed Income Markets",
+          "Derivatives and Options"
+          
+          ]
+        },
+        {
+          "header": "Banking and Financial Services",
+          "body": [
+            "Retail Banking",
+            "Commercial Banking",
+            "Financial Services Marketing"
+          ]
+        },
+        {
+          "header": "International Finance & Financial Modeling",
+          "body": [
+          "International Financial Management",
+          "Global Markets and Institutions",
+          "Cross-Border Mergers and Acquisitions",
+          "Excel for Finance",
+          "Financial Modeling Techniques",
+          "Valuation Methods"
+        ]
+        },
+        {
+          "header": "Fintech and Blockchain",
+          "body": [
+            "Financial Technology",
+            "Blockchain and Cryptocurrencies",
+            "Digital Banking"
+  
+          ]
+        },
+        {
+          "header": "Insurance and Risk Management",
+          "body": [
+            "Insurance Principles and Practices",
+            "Risk Management Strategies",
+            "Actuarial Science"
+          ]
+        },
+        {
+          "header": "Real Estate Finance & Behavioral Finance",
+          "body": [
+            "Real Estate Investment and Financing",
+            "Property Valuation",
+            "Real Estate Development",
+            "Behavioral Economics",
+            "Investor Psychology",
+            "Creating Roles",
+            "Decision Making in Finance"]
+        },
+        {
+          "header": "Ethics in Finance",
+          "body": [
+            "Professional Ethics in Finance",
+            "Corporate Governance",
+            "Regulatory Compliance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "imageKey": "sql.jpg",
+      "description2":"Through our initiatives, we aim to bridge educational gaps. We are committed to making a positive impact on education globally improve learning outcomes.",
+      "image":"sql.jpg",
+      "title": "Learn SQL – SQL Essential Training",
+      "lesson": "8 Lessons",
+      "duration": "6 weeks",
+      "level": "Beginner",
+      "author": "by Dataventics",
+      "fees": "tag.webp",
+      "priceLevel":"free",
+      "category": "Technology",
+      
+      "ratings":"RATINGS.png",
+      "description": "After successfully completion of course, Quizes, Practical Performance you will receive a Certificate of Completion. Which will be the proof of that you have completed the courses successfully and you know the fundamentals of the courses.",
+      "price": "RS.399/-",
+      "instructor": "Vineet & Khijendra",
+      "totalLessons": 10,
+      "courseDuration": "40 hrs",
+      "courseLevel": "Beginners",
+      "language": "English",
+      "users": "50k+users",
+      "video" :"htmlvedio.mp4",
+      "accordionData": [
+        {
+         
+          "header": "Introduction to Power BI",
+          "body": [
+            "Introduction to Business Intelligence (BI)",
+            "Stages of business intelligence (BI)",
+            "Use cases of BI",
+            "Various BI tools",
+            "Overview of Data warehouse & concepts",
+            "Introduction to Power BI",
+            "Why Power BI",
+            "Power BI Components",
+            "Power BI pricing structure",
+            "Building blocks of Power BI",
+            "Architecture of Power BI",
+            "Introduction of Power BI Desktop",
+            "Installation of Power BI Desktop",
+            "The key features of Power BI workflow",
+            "Process of creating reports in Power BI"
+          ]
+        },
+        {
+          "header": "DATA MODELLING",
+          "body": [
+          "Introduction of relationships",
+          "Creating relationships",
+          "Cardinality",
+          "Cross filter direction",
+          "Inactive relationships"
+          
+          ]
+        },
+        {
+          "header": "DAX",
+          "body": [
+            "Introduction of DAX",
+            "Why DAX is used",
+            "DAX syntax",
+            "DAX functions",
+            "Context in DAX",
+            "Calculated columns using DAX",
+            "Measures using DAX",
+            "Calculated tables using DAX",
+            "Learning about table, information, logical, text, iterator",
+            "Cumulative values, calculated tables, and ranking and rank over groups",
+            "Date and time functions"
+          ]
+        },
+        {
+          "header": "DATA VISUALIZATION WITH ANALYTICS",
+          "body": [
+          "Deep dive into Power BI data visualization",
+          "Data visualization techniques",
+          "Page layout & Formatting",
+          "Power BI Desktop visualization",
+          "Formatting and customizing visuals",
+          "Visualization interaction",
+          "Custom visualization in Power BI"
+        ]
+        },
+        {
+          "header": "MOBILE APPS",
+          "body": [
+            "Downloading Power BI Mobile App",
+            "Creating Mobile App",
+            "Customize Mobile App",
+            "Publishing App"
+  
+          ]
+        },
+        {
+          "header": "POWER BI SERVICE",
+          "body": [
+            "Creating a Service Account.",
+            "Publish and Share Reports",
+            "Create a Public Link.",
+            "Create an App Workspace",
+           " Grant Access on Workspace",
+          "  View Quick Insights",
+           " Creating Dashboards",
+            "Adding Text Widget",
+            "Adding Image Widget",
+            "Adding Video Widget",
+            "Explore Q&A"
+          ]
+        },
+        {
+          "header": "SUBSCRIPTIONS a RLS(Row Level Security)",
+          "body": [
+            "Creating Subscriptions in Power Bl",
+            "Installing Data Gateway",
+            "Configure Data Gatewa",
+            "Scheduled Data Refresh",
+            "Grant Access to Objects",
+            "Creating Roles",
+            "Role Impersonation",
+            "Publish Report to Service Account",
+            "Assign User(s) to Roles",
+            "Share the Report"]
+        },
+        {
+          "header": "SQL FUNCTIONS & PREDICATES",
+          "body": [
+            "SQL Functions",
+            "Aggregate Functions",
+            "String Functions",
+            "Date & Time Functions",
+            "SQL Predicates"
+          ]
+        },
+        {
+          "header": "SQL Join Types",
+          "body": [
+            "Creating and Altering table in SQL",
+            "Data Definition Language Commands",
+            "CREATE, DROP, ALTER, TRUNCATE"
+          ]
+        },
+        {
+          "header": "NULL VALUES & Set Operations",
+          "body": ["NULL Values"]
+        },
+        {
+          "header": "SQL Indexes",
+          "body": ["SQL Indexes", "CREATE Indexes", "Type of Indexes", "DROP Indexes"]
+        },
+        {
+          "header": "SQL Views",
+          "body": [
+            "SQL Views",
+            "CREATE View",
+            "INSERT rows into View",
+            "SELECT rows into view",
+            "DROP View",
+            "Wildcard Operators in SQL"
+          ]
+        },
+        {
+          "header": "Subqueries in SQl",
+          "body": [
+            "Subquery with SELECT",
+            "Subquery with INSERT",
+            "Subquery with WHERE",
+            "Subquery with DELETE",
+            "Subquery with UPDATE"
+          ]
+        }
+      ]
+    },
+    {"id": "8",
+    "imageKey": "1.webp",
+    "image":"1.webp",
+    "title": "Healthcare Professional Courses Training",
+    "lesson": "8 Lessons",
+    "duration": "6 weeks", 
+    "priceLevel":"paid",
+    "level": "Beginner",
+    "author": "by Dataventics",
+    "fees": "tag.webp",
+    "category": "Health",
+    
+    "ratings":"RATINGS.png",
+     "description2":"Through our initiatives, we aim to bridge educational gaps. We are committed to making a positive impact on education globally improve learning outcomes.",
+     "description": "After successfully completion of course, Quizes, Practical Performance you will receive a Certificate of Completion. Which will be the proof of that you have completed the courses successfully and you know the fundamentals of the courses.",
+    "price": "RS.399/-",
+    "instructor": "Vineet & Khijendra",
+    "totalLessons": 10,
+    "courseDuration": "40 hrs",
+    "courseLevel": "Beginners",
+    "language": "English",
+    "users": "50k+users",
+    "video" :"htmlvedio.mp4",
+    "accordionData": [
+      {
+       
+        "header": "Introduction to Healthcare Profession",
+        "body": [
+          "Overview of the Healthcare System","Understanding healthcare delivery models",
+          "Healthcare organizations and their structures","Key stakeholders in healthcare",
+          " Professional Ethics and Communication","Ethical principles in healthcare",
+          "Effective communication skills","Cultural competence and diversity in healthcare"
+        ]
+      },
+      {
+        "header": "Anatomy and Physiology",
+        "body": [
+          "Human Anatomy","Overview of major body systems",
+          "Organ structure and function","Anatomical terminology"," Human Physiology",
+          "Cellular functions","Homeostasis and physiological regulation",
+          "Common physiological processes"        
+        ]
+      },
+      {
+        "header": "Medical Terminology and Documentation",
+        "body": [
+         "Medical Terminology","Understanding medical prefixes, suffixes, and roots",
+         "Building and interpreting medical terms","Medical abbreviations and symbols",
+         " Documentation in Healthcare","Importance of accurate documentation",
+         "Electronic health records (EHRs)",
+         "Legal and ethical aspects of healthcare documentation"        ]
+      },
+      {
+        "header": "Patient Assessment and Vital Signs",
+        "body": [
+          "Physical Assessment","Techniques for physical examination",
+          "Assessment of different body systems", "Recognizing abnormal findings",
+          "Vital Signs Monitoring","Measuring and interpreting vital signs",
+          "Assessing and responding to changes in vital signs","Documentation of vital signs"
+      ]
+      },
+      {
+        "header": "Pharmacology and Medication Administration",
+        "body": [
+         "Introduction to Pharmacology","Drug classifications and actions",
+          "Routes of drug administration", "Pharmacokinetics and pharmacodynamics",
+          " Medication Administration","Safe medication practices","Dosage calculations","Patient education on medications"
+
+
+        ]
+      },
+      {
+        "header": "Infection Control and Prevention",
+        "body": [
+          "Principles of Infection Control","Chain of infection",
+          " Standard precautions", "Sterilization and disinfection",
+          "Preventing Healthcare-Associated Infections (HAIs)",
+          "Strategies for preventing HAIs",
+          "Hand hygiene and personal protective equipment",
+          "Surveillance and reporting of infections"
+        ]
+      },
+      {
+        "header": "Healthcare Technology and Equipment",
+        "body": [
+          "Medical Equipment and Devices","Introduction to common medical equipment",
+          "Operation and maintenance of healthcare devices",
+          "Ensuring patient safety with equipment use",
+          "Health Information Technology",
+          "Electronic health records (EHRs)",
+          "Telemedicine and virtual care",
+          "Healthcare data security and privacy"]
+      },
+      {
+        "header": "Interprofessional Collaboration and Teamwork",
+        "body": [
+          "Collaboration in Healthcare Teams",
+          "Roles and responsibilities of healthcare team members",
+          "Effective communication within interdisciplinary teams",
+          "Resolving conflicts in healthcare settings",
+          "Patient-Centered Care",
+          "Patient advocacy",
+          "Cultural competence in patient care",
+          "Shared decision-making with patients"
+        ]
+      },
+      {
+        "header": "Professional Development and Continuing Education",
+        "body": [
+          "Lifelong Learning in Healthcare",
+          "Importance of continuing education",
+          "Professional development opportunities",
+          "Staying current with healthcare trends and research",
+          "Career Planning and Advancement",
+
+          "Building a career in healthcare",
+          "Setting professional goals",
+          "Strategies for career advancement"
+        ]
+      },
+      {
+        "header": "Legal and Ethical Issues in Healthcare",
+        "body": ["Healthcare Laws and Regulations",
+        "Overview of healthcare laws",
+        "Regulatory agencies and their roles",
+        "Legal responsibilities of healthcare professionals",
+        "Ethical Dilemmas in Healthcare",        
+        "Ethical decision-making frameworks",
+        "Handling ethical challenges in patient care",
+        "Bioethical issues in healthcare"
+      ]
+    
+    }]
+  },
+    {
+      "id": "9",
+    "imageKey": "webdevcourse.png",
+    "title": "Learn Web Development-Full Stack Essential Training",
+    "lesson": "9 Lessons",
+    "duration": "6 weeks",
+    "level": "Beginner",
+    "priceLevel":"free",
+    "author": "by Dataventics",
+    "fees": "tag.webp",
+    "ratings":"RATINGS.png",
+    "category": "Development",
+    
+    "description": "After successfully completion of course, Quizes, Practical Performance you will receive a Certificate of Completion. Which will be the proof of that you have completed the courses successfully and you know the fundamentals of the courses.",
+    "price": "RS.399/-",
+    "instructor": "Vineet & Khijendra",
+    "totalLessons": 10,
+    "courseDuration": "40 hrs",
+    "courseLevel": "Beginners",
+    "language": "English",
+"users": "50k+users",
+"description2":"Through our initiatives, we aim to bridge educational gaps. We are committed to making a positive impact on education globally improve learning outcomes.",
+    "video" :"htmlvedio.mp4",
+    "accordionData": [
+      {
+       
+        "header": "Introduction to Healthcare Profession",
+        "body": [
+          "Overview of the Healthcare System","Understanding healthcare delivery models",
+          "Healthcare organizations and their structures","Key stakeholders in healthcare",
+          " Professional Ethics and Communication","Ethical principles in healthcare",
+          "Effective communication skills","Cultural competence and diversity in healthcare"
+        ]
+      },
+      {
+        "header": "Anatomy and Physiology",
+        "body": [
+          "Human Anatomy","Overview of major body systems",
+          "Organ structure and function","Anatomical terminology"," Human Physiology",
+          "Cellular functions","Homeostasis and physiological regulation",
+          "Common physiological processes"        
+        ]
+      },
+      {
+        "header": "Medical Terminology and Documentation",
+        "body": [
+         "Medical Terminology","Understanding medical prefixes, suffixes, and roots",
+         "Building and interpreting medical terms","Medical abbreviations and symbols",
+         " Documentation in Healthcare","Importance of accurate documentation",
+         "Electronic health records (EHRs)",
+         "Legal and ethical aspects of healthcare documentation"        ]
+      },
+      {
+        "header": "Patient Assessment and Vital Signs",
+        "body": [
+          "Physical Assessment","Techniques for physical examination",
+          "Assessment of different body systems", "Recognizing abnormal findings",
+          "Vital Signs Monitoring","Measuring and interpreting vital signs",
+          "Assessing and responding to changes in vital signs","Documentation of vital signs"
+      ]
+      },
+      {
+        "header": "Pharmacology and Medication Administration",
+        "body": [
+         "Introduction to Pharmacology","Drug classifications and actions",
+          "Routes of drug administration", "Pharmacokinetics and pharmacodynamics",
+          " Medication Administration","Safe medication practices","Dosage calculations","Patient education on medications"
+
+
+        ]
+      },
+      {
+        "header": "Infection Control and Prevention",
+        "body": [
+          "Principles of Infection Control","Chain of infection",
+          " Standard precautions", "Sterilization and disinfection",
+          "Preventing Healthcare-Associated Infections (HAIs)",
+          "Strategies for preventing HAIs",
+          "Hand hygiene and personal protective equipment",
+          "Surveillance and reporting of infections"
+        ]
+      },
+      {
+        "header": "Healthcare Technology and Equipment",
+        "body": [
+          "Medical Equipment and Devices","Introduction to common medical equipment",
+          "Operation and maintenance of healthcare devices",
+          "Ensuring patient safety with equipment use",
+          "Health Information Technology",
+          "Electronic health records (EHRs)",
+          "Telemedicine and virtual care",
+          "Healthcare data security and privacy"]
+      },
+      {
+        "header": "Interprofessional Collaboration and Teamwork",
+        "body": [
+          "Collaboration in Healthcare Teams",
+          "Roles and responsibilities of healthcare team members",
+          "Effective communication within interdisciplinary teams",
+          "Resolving conflicts in healthcare settings",
+          "Patient-Centered Care",
+          "Patient advocacy",
+          "Cultural competence in patient care",
+          "Shared decision-making with patients"
+        ]
+      },
+      {
+        "header": "Professional Development and Continuing Education",
+        "body": [
+          "Lifelong Learning in Healthcare",
+          "Importance of continuing education",
+          "Professional development opportunities",
+          "Staying current with healthcare trends and research",
+          "Career Planning and Advancement",
+
+          "Building a career in healthcare",
+          "Setting professional goals",
+          "Strategies for career advancement"
+        ]
+      },
+      {
+        "header": "Legal and Ethical Issues in Healthcare",
+        "body": ["Healthcare Laws and Regulations",
+        "Overview of healthcare laws",
+        "Regulatory agencies and their roles",
+        "Legal responsibilities of healthcare professionals",
+        "Ethical Dilemmas in Healthcare",        
+        "Ethical decision-making frameworks",
+        "Handling ethical challenges in patient care",
+        "Bioethical issues in healthcare"
+      ]
+    
+    }]},
+    {
+      "id": "10",
+    "imageKey": "uiuxcourse.png",
+    "title": "Learn Figma – UI/UX Design Essential Training",
+    "lesson": "8 Lessons",
+    "ratings":"RATINGS.png",
+    "duration": "2 weeks",
+    "level": "Beginner",
+    "author": "by Dataventics",
+    "fees": "tag.webp",
+    "priceLevel":"paid",
+    "category": "Design",
+    
+    "description": "After successfully completion of course, Quizes, Practical Performance you will receive a Certificate of Completion. Which will be the proof of that you have completed the courses successfully and you know the fundamentals of the courses.",
+    "price": "RS.399/-",
+    "instructor": "Vineet & Khijendra",
+    "totalLessons": 10,
+    "description2":"Through our initiatives, we aim to bridge educational gaps. We are committed to making a positive impact on education globally improve learning outcomes.",
+     "courseDuration": "40 hrs",
+    "courseLevel": "Beginners",
+    "language": "English",
+"users": "50k+users",
+"video" :"htmlvedio.mp4",
+"accordionData": [
+  {
+   
+    "header": "Introduction to UI-UX Design",
+    "body": [
+      "Fundamentals of UI-UX Design","Understanding the basics of user interface and user experience",
+      "Importance of good design in digital products",
+      "Historical context and evolution of UI-UX design",
+      " UX Research and Analysis", "User research methodologies",
+      "Creating user personas and user journeys",
+      "Competitive analysis and benchmarking"
+    ]
+  },
+  {
+    "header": "UI-UX Design Tools",
+    "body": [
+      "Introduction to Design Software",
+      "Overview of popular design tools (e.g., Adobe XD, Figma, Sketch)","Hands-on practice with design software",
+      "Prototyping and Wireframing","Creating wireframes for different screen sizes",
+      "Prototyping interactions and animations"
+    ]
+  },
+  {
+    "header": "Information Architecture",
+    "body": [
+     "Site Mapping and Navigation",
+     "Understanding site structure and information hierarchy",
+     "Navigation design principles", 
+    "Content Strategy","Planning and organizing content for effective user engagement",
+    "Content-first design approach"]
+  },
+  {
+    "header": " UI Design Principles",
+    "body": [
+      "Color Theory and Typography",
+      "Importance of color and typography in UI design",
+      "Creating a harmonious visual hierarchy","Iconography and Imagery", 
+      "Effective use of icons in UI","Image selection and optimization"
+  ]
+  },
+  {
+    "header": "Interaction Design",
+    "body": [
+     "Microinteractions",
+     "Designing small, delightful interactions",
+     "Feedback and animation principles"
+
+    ]
+  },
+  {
+    "header": "Testing",
+    "body": [
+      "Unit Testing: Jest (for JavaScript/Node.js), pytest (for Python), JUnit (for Java).","Integration Testing: Supertest, Flask-Testing, or similar."
+    ]
+  },
+  {
+    "header": "Security Best Practices",
+    "body": [
+      "Web Application Security: Cross-Site Scripting (XSS), Cross-Site Request Forgery (CSRF), etc.",
+      "HTTPS and SSL/TLS: Certificate management."]
+  },
+  {
+    "header": "Performance Optimization",
+    "body": [
+      "Front-End Performance: Code splitting, lazy loading, and image optimization.",
+      "Back-End Performance: Caching strategies, load balancing."
+    ]
+  },
+  {
+    "header": " DevOps and Collaboration",
+    "body": [
+      "Collaboration Tools: Slack, Jira, Confluence, etc.",
+      "Agile Development: Scrum or Kanban methodologies."
+    ]
+  },
+  {
+    "header": "Real-World Project",
+    "body": ["Capstone Project: Apply all the learned concepts to build a full-scale web application."
+  ]
+
+}]},
+    {
+      "id": "11",
+      "imageKey": "sql.jpg",
+      
+      "image":"sql.jpg",
+      "title": "Learn SQL – SQL Essential Training",
+      "lesson": "8 Lessons",
+      "duration": "6 weeks",
+      "level": "Beginner",
+      "author": "by Dataventics",
+      "fees": "tag.webp",
+      "category": "Technology",
+      "priceLevel":"free",
+      
+      "ratings":"RATINGS.png",
+       "description2":"Through our initiatives, we aim to bridge educational gaps. We are committed to making a positive impact on education globally improve learning outcomes.",
+       "description": "After successfully completion of course, Quizes, Practical Performance you will receive a Certificate of Completion. Which will be the proof of that you have completed the courses successfully and you know the fundamentals of the courses.",
+      "price": "RS.399/-",
+      "instructor": "Vineet & Khijendra",
+      "totalLessons": 10,
+      "courseDuration": "40 hrs",
+      "courseLevel": "Beginners",
+      "language": "English",
+      "users": "50k+users",
+      "video" :"htmlvedio.mp4",
+      "accordionData": [
+        {
+         
+          "header": "Introduction to Power BI",
+          "body": [
+            "Introduction to Business Intelligence (BI)",
+            "Stages of business intelligence (BI)",
+            "Use cases of BI",
+            "Various BI tools",
+            "Overview of Data warehouse & concepts",
+            "Introduction to Power BI",
+            "Why Power BI",
+            "Power BI Components",
+            "Power BI pricing structure",
+            "Building blocks of Power BI",
+            "Architecture of Power BI",
+            "Introduction of Power BI Desktop",
+            "Installation of Power BI Desktop",
+            "The key features of Power BI workflow",
+            "Process of creating reports in Power BI"
+          ]
+        },
+        {
+          "header": "DATA MODELLING",
+          "body": [
+          "Introduction of relationships",
+          "Creating relationships",
+          "Cardinality",
+          "Cross filter direction",
+          "Inactive relationships"
+          
+          ]
+        },
+        {
+          "header": "DAX",
+          "body": [
+            "Introduction of DAX",
+            "Why DAX is used",
+            "DAX syntax",
+            "DAX functions",
+            "Context in DAX",
+            "Calculated columns using DAX",
+            "Measures using DAX",
+            "Calculated tables using DAX",
+            "Learning about table, information, logical, text, iterator",
+            "Cumulative values, calculated tables, and ranking and rank over groups",
+            "Date and time functions"
+          ]
+        },
+        {
+          "header": "DATA VISUALIZATION WITH ANALYTICS",
+          "body": [
+          "Deep dive into Power BI data visualization",
+          "Data visualization techniques",
+          "Page layout & Formatting",
+          "Power BI Desktop visualization",
+          "Formatting and customizing visuals",
+          "Visualization interaction",
+          "Custom visualization in Power BI"
+        ]
+        },
+        {
+          "header": "MOBILE APPS",
+          "body": [
+            "Downloading Power BI Mobile App",
+            "Creating Mobile App",
+            "Customize Mobile App",
+            "Publishing App"
+  
+          ]
+        },
+        {
+          "header": "POWER BI SERVICE",
+          "body": [
+            "Creating a Service Account.",
+            "Publish and Share Reports",
+            "Create a Public Link.",
+            "Create an App Workspace",
+           " Grant Access on Workspace",
+          "  View Quick Insights",
+           " Creating Dashboards",
+            "Adding Text Widget",
+            "Adding Image Widget",
+            "Adding Video Widget",
+            "Explore Q&A"
+          ]
+        },
+        {
+          "header": "SUBSCRIPTIONS a RLS(Row Level Security)",
+          "body": [
+            "Creating Subscriptions in Power Bl",
+            "Installing Data Gateway",
+            "Configure Data Gatewa",
+            "Scheduled Data Refresh",
+            "Grant Access to Objects",
+            "Creating Roles",
+            "Role Impersonation",
+            "Publish Report to Service Account",
+            "Assign User(s) to Roles",
+            "Share the Report"]
+        },
+        {
+          "header": "SQL FUNCTIONS & PREDICATES",
+          "body": [
+            "SQL Functions",
+            "Aggregate Functions",
+            "String Functions",
+            "Date & Time Functions",
+            "SQL Predicates"
+          ]
+        },
+        {
+          "header": "SQL Join Types",
+          "body": [
+            "Creating and Altering table in SQL",
+            "Data Definition Language Commands",
+            "CREATE, DROP, ALTER, TRUNCATE"
+          ]
+        },
+        {
+          "header": "NULL VALUES & Set Operations",
+          "body": ["NULL Values"]
+        },
+        {
+          "header": "SQL Indexes",
+          "body": ["SQL Indexes", "CREATE Indexes", "Type of Indexes", "DROP Indexes"]
+        },
+        {
+          "header": "SQL Views",
+          "body": [
+            "SQL Views",
+            "CREATE View",
+            "INSERT rows into View",
+            "SELECT rows into view",
+            "DROP View",
+            "Wildcard Operators in SQL"
+          ]
+        },
+        {
+          "header": "Subqueries in SQl",
+          "body": [
+            "Subquery with SELECT",
+            "Subquery with INSERT",
+            "Subquery with WHERE",
+            "Subquery with DELETE",
+            "Subquery with UPDATE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "imageKey": "Finance-and-Accounting.webp",
+      "image":"Finance-and-Accounting.webp",
+      "title": "Financial Management of Project Training",
+      "lesson": "8 Lessons",
+      "duration": "6 weeks",
+      "level": "Beginner",
+      "author": "by Dataventics",
+      "priceLevel":"paid",
+      "fees": "tag.webp",
+      "category": "Finance",
+      
+      "ratings":"RATINGS.png",
+       "description2":"Through our initiatives, we aim to bridge educational gaps. We are committed to making a positive impact on education globally improve learning outcomes.",
+       "description": "After successfully completion of course, Quizes, Practical Performance you will receive a Certificate of Completion. Which will be the proof of that you have completed the courses successfully and you know the fundamentals of the courses.",
+      "price": "RS.399/-",
+      "instructor": "Vineet & Khijendra",
+      "totalLessons": 10,
+      "courseDuration": "40 hrs",
+      "courseLevel": "Beginners",
+      "language": "English",
+      "users": "50k+users",
+      "video" :"htmlvedio.mp4",
+      "accordionData": [
+        {
+         
+          "header": "Financial Management & Investment Management",
+          "body": [
+            "Corporate Finance",
+            "Financial Risk Management",
+            "Working Capital Management",
+            "Portfolio Management",
+            "Asset Management",
+            "Investment Banking"]
+        },
+        {
+          "header": "Financial Analysis & Financial Markets and Instruments",
+          "body": [
+          "Financial Statement Analysis",
+          "Credit Analysis",
+          "Quantitative Methods in Finance",
+          "Equity Markets",
+          "Fixed Income Markets",
+          "Derivatives and Options"
+          
+          ]
+        },
+        {
+          "header": "Banking and Financial Services",
+          "body": [
+            "Retail Banking",
+            "Commercial Banking",
+            "Financial Services Marketing"
+          ]
+        },
+        {
+          "header": "International Finance & Financial Modeling",
+          "body": [
+          "International Financial Management",
+          "Global Markets and Institutions",
+          "Cross-Border Mergers and Acquisitions",
+          "Excel for Finance",
+          "Financial Modeling Techniques",
+          "Valuation Methods"
+        ]
+        },
+        {
+          "header": "Fintech and Blockchain",
+          "body": [
+            "Financial Technology",
+            "Blockchain and Cryptocurrencies",
+            "Digital Banking"
+  
+          ]
+        },
+        {
+          "header": "Insurance and Risk Management",
+          "body": [
+            "Insurance Principles and Practices",
+            "Risk Management Strategies",
+            "Actuarial Science"
+          ]
+        },
+        {
+          "header": "Real Estate Finance & Behavioral Finance",
+          "body": [
+            "Real Estate Investment and Financing",
+            "Property Valuation",
+            "Real Estate Development",
+            "Behavioral Economics",
+            "Investor Psychology",
+            "Creating Roles",
+            "Decision Making in Finance"]
+        },
+        {
+          "header": "Ethics in Finance",
+          "body": [
+            "Professional Ethics in Finance",
+            "Corporate Governance",
+            "Regulatory Compliance"
+          ]
+        }
+      ]
+    },
+    
+    {
+      "id": "13",
+      "imageKey": "sql.jpg",
+      "description2":"Through our initiatives, we aim to bridge educational gaps. We are committed to making a positive impact on education globally improve learning outcomes.",
+      "image":"sql.jpg",
+      "title": "Learn SQL – SQL Essential Training",
+      "lesson": "8 Lessons",
+      "priceLevel":"free",
+      "duration": "6 weeks",
+      "level": "Beginner",
+      "author": "by Dataventics",
+      "fees": "tag.webp",
+      "category": "Technology",
+      "ratings":"RATINGS.png",
+      
+      "description": "After successfully completion of course, Quizes, Practical Performance you will receive a Certificate of Completion. Which will be the proof of that you have completed the courses successfully and you know the fundamentals of the courses.",
+      "price": "RS.399/-",
+      "instructor": "Vineet & Khijendra",
+      "totalLessons": 10,
+      "courseDuration": "40 hrs",
+      "courseLevel": "Beginners",
+      "language": "English",
+      "users": "50k+users",
+      "video" :"htmlvedio.mp4",
+      "accordionData": [
+        {
+         
+          "header": "Introduction to Power BI",
+          "body": [
+            "Introduction to Business Intelligence (BI)",
+            "Stages of business intelligence (BI)",
+            "Use cases of BI",
+            "Various BI tools",
+            "Overview of Data warehouse & concepts",
+            "Introduction to Power BI",
+            "Why Power BI",
+            "Power BI Components",
+            "Power BI pricing structure",
+            "Building blocks of Power BI",
+            "Architecture of Power BI",
+            "Introduction of Power BI Desktop",
+            "Installation of Power BI Desktop",
+            "The key features of Power BI workflow",
+            "Process of creating reports in Power BI"
+          ]
+        },
+        {
+          "header": "DATA MODELLING",
+          "body": [
+          "Introduction of relationships",
+          "Creating relationships",
+          "Cardinality",
+          "Cross filter direction",
+          "Inactive relationships"
+          
+          ]
+        },
+        {
+          "header": "DAX",
+          "body": [
+            "Introduction of DAX",
+            "Why DAX is used",
+            "DAX syntax",
+            "DAX functions",
+            "Context in DAX",
+            "Calculated columns using DAX",
+            "Measures using DAX",
+            "Calculated tables using DAX",
+            "Learning about table, information, logical, text, iterator",
+            "Cumulative values, calculated tables, and ranking and rank over groups",
+            "Date and time functions"
+          ]
+        },
+        {
+          "header": "DATA VISUALIZATION WITH ANALYTICS",
+          "body": [
+          "Deep dive into Power BI data visualization",
+          "Data visualization techniques",
+          "Page layout & Formatting",
+          "Power BI Desktop visualization",
+          "Formatting and customizing visuals",
+          "Visualization interaction",
+          "Custom visualization in Power BI"
+        ]
+        },
+        {
+          "header": "MOBILE APPS",
+          "body": [
+            "Downloading Power BI Mobile App",
+            "Creating Mobile App",
+            "Customize Mobile App",
+            "Publishing App"
+  
+          ]
+        },
+        {
+          "header": "POWER BI SERVICE",
+          "body": [
+            "Creating a Service Account.",
+            "Publish and Share Reports",
+            "Create a Public Link.",
+            "Create an App Workspace",
+           " Grant Access on Workspace",
+          "  View Quick Insights",
+           " Creating Dashboards",
+            "Adding Text Widget",
+            "Adding Image Widget",
+            "Adding Video Widget",
+            "Explore Q&A"
+          ]
+        },
+        {
+          "header": "SUBSCRIPTIONS a RLS(Row Level Security)",
+          "body": [
+            "Creating Subscriptions in Power Bl",
+            "Installing Data Gateway",
+            "Configure Data Gatewa",
+            "Scheduled Data Refresh",
+            "Grant Access to Objects",
+            "Creating Roles",
+            "Role Impersonation",
+            "Publish Report to Service Account",
+            "Assign User(s) to Roles",
+            "Share the Report"]
+        },
+        {
+          "header": "SQL FUNCTIONS & PREDICATES",
+          "body": [
+            "SQL Functions",
+            "Aggregate Functions",
+            "String Functions",
+            "Date & Time Functions",
+            "SQL Predicates"
+          ]
+        },
+        {
+          "header": "SQL Join Types",
+          "body": [
+            "Creating and Altering table in SQL",
+            "Data Definition Language Commands",
+            "CREATE, DROP, ALTER, TRUNCATE"
+          ]
+        },
+        {
+          "header": "NULL VALUES & Set Operations",
+          "body": ["NULL Values"]
+        },
+        {
+          "header": "SQL Indexes",
+          "body": ["SQL Indexes", "CREATE Indexes", "Type of Indexes", "DROP Indexes"]
+        },
+        {
+          "header": "SQL Views",
+          "body": [
+            "SQL Views",
+            "CREATE View",
+            "INSERT rows into View",
+            "SELECT rows into view",
+            "DROP View",
+            "Wildcard Operators in SQL"
+          ]
+        },
+        {
+          "header": "Subqueries in SQl",
+          "body": [
+            "Subquery with SELECT",
+            "Subquery with INSERT",
+            "Subquery with WHERE",
+            "Subquery with DELETE",
+            "Subquery with UPDATE"
+          ]
+        }
+      ]
+    },
+    {"id": "14",
+    "imageKey": "1.webp",    
+    "image":"1.webp",
+    "title": "Healthcare Professional Courses Training",
+    "lesson": "8 Lessons",
+    "ratings":"RATINGS.png",
+    "duration": "6 weeks",
+    "level": "Beginner",
+    "author": "by Dataventics",
+    "fees": "tag.webp",
+    "priceLevel":"paid",
+    "category": "Health",
+    
+     "description2":"Through our initiatives, we aim to bridge educational gaps. We are committed to making a positive impact on education globally improve learning outcomes.",
+     "description": "After successfully completion of course, Quizes, Practical Performance you will receive a Certificate of Completion. Which will be the proof of that you have completed the courses successfully and you know the fundamentals of the courses.",
+    "price": "RS.399/-",
+    "instructor": "Vineet & Khijendra",
+    "totalLessons": 10,
+    "courseDuration": "40 hrs",
+    "courseLevel": "Beginners",
+    "language": "English",
+    "users": "50k+users",
+    "video" :"htmlvedio.mp4",
+    "accordionData": [
+      {
+       
+        "header": "Introduction to Healthcare Profession",
+        "body": [
+          "Overview of the Healthcare System","Understanding healthcare delivery models",
+          "Healthcare organizations and their structures","Key stakeholders in healthcare",
+          " Professional Ethics and Communication","Ethical principles in healthcare",
+          "Effective communication skills","Cultural competence and diversity in healthcare"
+        ]
+      },
+      {
+        "header": "Anatomy and Physiology",
+        "body": [
+          "Human Anatomy","Overview of major body systems",
+          "Organ structure and function","Anatomical terminology"," Human Physiology",
+          "Cellular functions","Homeostasis and physiological regulation",
+          "Common physiological processes"        
+        ]
+      },
+      {
+        "header": "Medical Terminology and Documentation",
+        "body": [
+         "Medical Terminology","Understanding medical prefixes, suffixes, and roots",
+         "Building and interpreting medical terms","Medical abbreviations and symbols",
+         " Documentation in Healthcare","Importance of accurate documentation",
+         "Electronic health records (EHRs)",
+         "Legal and ethical aspects of healthcare documentation"        ]
+      },
+      {
+        "header": "Patient Assessment and Vital Signs",
+        "body": [
+          "Physical Assessment","Techniques for physical examination",
+          "Assessment of different body systems", "Recognizing abnormal findings",
+          "Vital Signs Monitoring","Measuring and interpreting vital signs",
+          "Assessing and responding to changes in vital signs","Documentation of vital signs"
+      ]
+      },
+      {
+        "header": "Pharmacology and Medication Administration",
+        "body": [
+         "Introduction to Pharmacology","Drug classifications and actions",
+          "Routes of drug administration", "Pharmacokinetics and pharmacodynamics",
+          " Medication Administration","Safe medication practices","Dosage calculations","Patient education on medications"
+
+
+        ]
+      },
+      {
+        "header": "Infection Control and Prevention",
+        "body": [
+          "Principles of Infection Control","Chain of infection",
+          " Standard precautions", "Sterilization and disinfection",
+          "Preventing Healthcare-Associated Infections (HAIs)",
+          "Strategies for preventing HAIs",
+          "Hand hygiene and personal protective equipment",
+          "Surveillance and reporting of infections"
+        ]
+      },
+      {
+        "header": "Healthcare Technology and Equipment",
+        "body": [
+          "Medical Equipment and Devices","Introduction to common medical equipment",
+          "Operation and maintenance of healthcare devices",
+          "Ensuring patient safety with equipment use",
+          "Health Information Technology",
+          "Electronic health records (EHRs)",
+          "Telemedicine and virtual care",
+          "Healthcare data security and privacy"]
+      },
+      {
+        "header": "Interprofessional Collaboration and Teamwork",
+        "body": [
+          "Collaboration in Healthcare Teams",
+          "Roles and responsibilities of healthcare team members",
+          "Effective communication within interdisciplinary teams",
+          "Resolving conflicts in healthcare settings",
+          "Patient-Centered Care",
+          "Patient advocacy",
+          "Cultural competence in patient care",
+          "Shared decision-making with patients"
+        ]
+      },
+      {
+        "header": "Professional Development and Continuing Education",
+        "body": [
+          "Lifelong Learning in Healthcare",
+          "Importance of continuing education",
+          "Professional development opportunities",
+          "Staying current with healthcare trends and research",
+          "Career Planning and Advancement",
+
+          "Building a career in healthcare",
+          "Setting professional goals",
+          "Strategies for career advancement"
+        ]
+      },
+      {
+        "header": "Legal and Ethical Issues in Healthcare",
+        "body": ["Healthcare Laws and Regulations",
+        "Overview of healthcare laws",
+        "Regulatory agencies and their roles",
+        "Legal responsibilities of healthcare professionals",
+        "Ethical Dilemmas in Healthcare",        
+        "Ethical decision-making frameworks",
+        "Handling ethical challenges in patient care",
+        "Bioethical issues in healthcare"
+      ]
+    
+    }]
+  },
+    {
+      "id": "15",
+    "imageKey": "webdevcourse.png",
+    "title": "Learn Web Development-Full Stack Essential Training",
+    "lesson": "9 Lessons",
+    "duration": "6 weeks",
+    "priceLevel":"free",
+    "level": "Beginner",
+    "author": "by Dataventics",
+    "fees": "tag.webp",
+    "category": "Development",
+    
+    "description": "After successfully completion of course, Quizes, Practical Performance you will receive a Certificate of Completion. Which will be the proof of that you have completed the courses successfully and you know the fundamentals of the courses.",
+    "price": "RS.399/-",
+    "instructor": "Vineet & Khijendra",
+    "totalLessons": 10,
+    "courseDuration": "40 hrs",
+    "courseLevel": "Beginners",
+    "language": "English",
+    "ratings":"RATINGS.png",
+    "users": "50k+users",
+    "description2":"Through our initiatives, we aim to bridge educational gaps. We are committed to making a positive impact on education globally improve learning outcomes.",
+    "video" :"htmlvedio.mp4",
+    "accordionData": [
+      {
+       
+        "header": "Introduction to Healthcare Profession",
+        "body": [
+          "Overview of the Healthcare System","Understanding healthcare delivery models",
+          "Healthcare organizations and their structures","Key stakeholders in healthcare",
+          " Professional Ethics and Communication","Ethical principles in healthcare",
+          "Effective communication skills","Cultural competence and diversity in healthcare"
+        ]
+      },
+      {
+        "header": "Anatomy and Physiology",
+        "body": [
+          "Human Anatomy","Overview of major body systems",
+          "Organ structure and function","Anatomical terminology"," Human Physiology",
+          "Cellular functions","Homeostasis and physiological regulation",
+          "Common physiological processes"        
+        ]
+      },
+      {
+        "header": "Medical Terminology and Documentation",
+        "body": [
+         "Medical Terminology","Understanding medical prefixes, suffixes, and roots",
+         "Building and interpreting medical terms","Medical abbreviations and symbols",
+         " Documentation in Healthcare","Importance of accurate documentation",
+         "Electronic health records (EHRs)",
+         "Legal and ethical aspects of healthcare documentation"        ]
+      },
+      {
+        "header": "Patient Assessment and Vital Signs",
+        "body": [
+          "Physical Assessment","Techniques for physical examination",
+          "Assessment of different body systems", "Recognizing abnormal findings",
+          "Vital Signs Monitoring","Measuring and interpreting vital signs",
+          "Assessing and responding to changes in vital signs","Documentation of vital signs"
+      ]
+      },
+      {
+        "header": "Pharmacology and Medication Administration",
+        "body": [
+         "Introduction to Pharmacology","Drug classifications and actions",
+          "Routes of drug administration", "Pharmacokinetics and pharmacodynamics",
+          " Medication Administration","Safe medication practices","Dosage calculations","Patient education on medications"
+
+
+        ]
+      },
+      {
+        "header": "Infection Control and Prevention",
+        "body": [
+          "Principles of Infection Control","Chain of infection",
+          " Standard precautions", "Sterilization and disinfection",
+          "Preventing Healthcare-Associated Infections (HAIs)",
+          "Strategies for preventing HAIs",
+          "Hand hygiene and personal protective equipment",
+          "Surveillance and reporting of infections"
+        ]
+      },
+      {
+        "header": "Healthcare Technology and Equipment",
+        "body": [
+          "Medical Equipment and Devices","Introduction to common medical equipment",
+          "Operation and maintenance of healthcare devices",
+          "Ensuring patient safety with equipment use",
+          "Health Information Technology",
+          "Electronic health records (EHRs)",
+          "Telemedicine and virtual care",
+          "Healthcare data security and privacy"]
+      },
+      {
+        "header": "Interprofessional Collaboration and Teamwork",
+        "body": [
+          "Collaboration in Healthcare Teams",
+          "Roles and responsibilities of healthcare team members",
+          "Effective communication within interdisciplinary teams",
+          "Resolving conflicts in healthcare settings",
+          "Patient-Centered Care",
+          "Patient advocacy",
+          "Cultural competence in patient care",
+          "Shared decision-making with patients"
+        ]
+      },
+      {
+        "header": "Professional Development and Continuing Education",
+        "body": [
+          "Lifelong Learning in Healthcare",
+          "Importance of continuing education",
+          "Professional development opportunities",
+          "Staying current with healthcare trends and research",
+          "Career Planning and Advancement",
+
+          "Building a career in healthcare",
+          "Setting professional goals",
+          "Strategies for career advancement"
+        ]
+      },
+      {
+        "header": "Legal and Ethical Issues in Healthcare",
+        "body": ["Healthcare Laws and Regulations",
+        "Overview of healthcare laws",
+        "Regulatory agencies and their roles",
+        "Legal responsibilities of healthcare professionals",
+        "Ethical Dilemmas in Healthcare",        
+        "Ethical decision-making frameworks",
+        "Handling ethical challenges in patient care",
+        "Bioethical issues in healthcare"
+      ]
+    
+    }]},
+    {
+      "id": "16",
+    "imageKey": "uiuxcourse.png",
+    "title": "Learn Figma – UI/UX Design Essential Training",
+    "lesson": "8 Lessons",
+    "duration": "2 weeks",
+    "ratings":"RATINGS.png",
+    "level": "Beginner",
+    "author": "by Dataventics",
+    "fees": "tag.webp",
+    "category": "Design",
+    
+    "description": "After successfully completion of course, Quizes, Practical Performance you will receive a Certificate of Completion. Which will be the proof of that you have completed the courses successfully and you know the fundamentals of the courses.",
+    "price": "RS.399/-",
+    "priceLevel":"paid",
+    "instructor": "Vineet & Khijendra",
+    "totalLessons": 10,
+    "description2":"Through our initiatives, we aim to bridge educational gaps. We are committed to making a positive impact on education globally improve learning outcomes.",
+     "courseDuration": "40 hrs",
+    "courseLevel": "Beginners",
+    "language": "English",
+"users": "50k+users",
+"video" :"htmlvedio.mp4",
+"accordionData": [
+  {
+   
+    "header": "Introduction to UI-UX Design",
+    "body": [
+      "Fundamentals of UI-UX Design","Understanding the basics of user interface and user experience",
+      "Importance of good design in digital products",
+      "Historical context and evolution of UI-UX design",
+      " UX Research and Analysis", "User research methodologies",
+      "Creating user personas and user journeys",
+      "Competitive analysis and benchmarking"
+    ]
+  },
+  {
+    "header": "UI-UX Design Tools",
+    "body": [
+      "Introduction to Design Software",
+      "Overview of popular design tools (e.g., Adobe XD, Figma, Sketch)","Hands-on practice with design software",
+      "Prototyping and Wireframing","Creating wireframes for different screen sizes",
+      "Prototyping interactions and animations"
+    ]
+  },
+  {
+    "header": "Information Architecture",
+    "body": [
+     "Site Mapping and Navigation",
+     "Understanding site structure and information hierarchy",
+     "Navigation design principles", 
+    "Content Strategy","Planning and organizing content for effective user engagement",
+    "Content-first design approach"]
+  },
+  {
+    "header": " UI Design Principles",
+    "body": [
+      "Color Theory and Typography",
+      "Importance of color and typography in UI design",
+      "Creating a harmonious visual hierarchy","Iconography and Imagery", 
+      "Effective use of icons in UI","Image selection and optimization"
+  ]
+  },
+  {
+    "header": "Interaction Design",
+    "body": [
+     "Microinteractions",
+     "Designing small, delightful interactions",
+     "Feedback and animation principles"
+
+    ]
+  },
+  {
+    "header": "Testing",
+    "body": [
+      "Unit Testing: Jest (for JavaScript/Node.js), pytest (for Python), JUnit (for Java).","Integration Testing: Supertest, Flask-Testing, or similar."
+    ]
+  },
+  {
+    "header": "Security Best Practices",
+    "body": [
+      "Web Application Security: Cross-Site Scripting (XSS), Cross-Site Request Forgery (CSRF), etc.",
+      "HTTPS and SSL/TLS: Certificate management."]
+  },
+  {
+    "header": "Performance Optimization",
+    "body": [
+      "Front-End Performance: Code splitting, lazy loading, and image optimization.",
+      "Back-End Performance: Caching strategies, load balancing."
+    ]
+  },
+  {
+    "header": " DevOps and Collaboration",
+    "body": [
+      "Collaboration Tools: Slack, Jira, Confluence, etc.",
+      "Agile Development: Scrum or Kanban methodologies."
+    ]
+  },
+  {
+    "header": "Real-World Project",
+    "body": ["Capstone Project: Apply all the learned concepts to build a full-scale web application."
+  ]
+
+}]},
+    {
+      "id": "17",
+      "imageKey": "sql.jpg",
+      "image":"sql.jpg",
+      "title": "Learn SQL – SQL Essential Training",
+      "lesson": "8 Lessons",
+      "duration": "6 weeks",
+      "level": "Beginner", 
+      "priceLevel":"free",
+      "author": "by Dataventics",
+      "ratings":"RATINGS.png",
+      "fees": "tag.webp",
+      "category": "Technology",
+      
+       "description2":"Through our initiatives, we aim to bridge educational gaps. We are committed to making a positive impact on education globally improve learning outcomes.",
+       "description": "After successfully completion of course, Quizes, Practical Performance you will receive a Certificate of Completion. Which will be the proof of that you have completed the courses successfully and you know the fundamentals of the courses.",
+      "price": "RS.399/-",
+      "instructor": "Vineet & Khijendra",
+      "totalLessons": 10,
+      "courseDuration": "40 hrs",
+      "courseLevel": "Beginners",
+      "language": "English",
+      "users": "50k+users",
+      "video" :"htmlvedio.mp4",
+      "accordionData": [
+        {
+         
+          "header": "Introduction to Power BI",
+          "body": [
+            "Introduction to Business Intelligence (BI)",
+            "Stages of business intelligence (BI)",
+            "Use cases of BI",
+            "Various BI tools",
+            "Overview of Data warehouse & concepts",
+            "Introduction to Power BI",
+            "Why Power BI",
+            "Power BI Components",
+            "Power BI pricing structure",
+            "Building blocks of Power BI",
+            "Architecture of Power BI",
+            "Introduction of Power BI Desktop",
+            "Installation of Power BI Desktop",
+            "The key features of Power BI workflow",
+            "Process of creating reports in Power BI"
+          ]
+        },
+        {
+          "header": "DATA MODELLING",
+          "body": [
+          "Introduction of relationships",
+          "Creating relationships",
+          "Cardinality",
+          "Cross filter direction",
+          "Inactive relationships"
+          
+          ]
+        },
+        {
+          "header": "DAX",
+          "body": [
+            "Introduction of DAX",
+            "Why DAX is used",
+            "DAX syntax",
+            "DAX functions",
+            "Context in DAX",
+            "Calculated columns using DAX",
+            "Measures using DAX",
+            "Calculated tables using DAX",
+            "Learning about table, information, logical, text, iterator",
+            "Cumulative values, calculated tables, and ranking and rank over groups",
+            "Date and time functions"
+          ]
+        },
+        {
+          "header": "DATA VISUALIZATION WITH ANALYTICS",
+          "body": [
+          "Deep dive into Power BI data visualization",
+          "Data visualization techniques",
+          "Page layout & Formatting",
+          "Power BI Desktop visualization",
+          "Formatting and customizing visuals",
+          "Visualization interaction",
+          "Custom visualization in Power BI"
+        ]
+        },
+        {
+          "header": "MOBILE APPS",
+          "body": [
+            "Downloading Power BI Mobile App",
+            "Creating Mobile App",
+            "Customize Mobile App",
+            "Publishing App"
+  
+          ]
+        },
+        {
+          "header": "POWER BI SERVICE",
+          "body": [
+            "Creating a Service Account.",
+            "Publish and Share Reports",
+            "Create a Public Link.",
+            "Create an App Workspace",
+           " Grant Access on Workspace",
+          "  View Quick Insights",
+           " Creating Dashboards",
+            "Adding Text Widget",
+            "Adding Image Widget",
+            "Adding Video Widget",
+            "Explore Q&A"
+          ]
+        },
+        {
+          "header": "SUBSCRIPTIONS a RLS(Row Level Security)",
+          "body": [
+            "Creating Subscriptions in Power Bl",
+            "Installing Data Gateway",
+            "Configure Data Gatewa",
+            "Scheduled Data Refresh",
+            "Grant Access to Objects",
+            "Creating Roles",
+            "Role Impersonation",
+            "Publish Report to Service Account",
+            "Assign User(s) to Roles",
+            "Share the Report"]
+        },
+        {
+          "header": "SQL FUNCTIONS & PREDICATES",
+          "body": [
+            "SQL Functions",
+            "Aggregate Functions",
+            "String Functions",
+            "Date & Time Functions",
+            "SQL Predicates"
+          ]
+        },
+        {
+          "header": "SQL Join Types",
+          "body": [
+            "Creating and Altering table in SQL",
+            "Data Definition Language Commands",
+            "CREATE, DROP, ALTER, TRUNCATE"
+          ]
+        },
+        {
+          "header": "NULL VALUES & Set Operations",
+          "body": ["NULL Values"]
+        },
+        {
+          "header": "SQL Indexes",
+          "body": ["SQL Indexes", "CREATE Indexes", "Type of Indexes", "DROP Indexes"]
+        },
+        {
+          "header": "SQL Views",
+          "body": [
+            "SQL Views",
+            "CREATE View",
+            "INSERT rows into View",
+            "SELECT rows into view",
+            "DROP View",
+            "Wildcard Operators in SQL"
+          ]
+        },
+        {
+          "header": "Subqueries in SQl",
+          "body": [
+            "Subquery with SELECT",
+            "Subquery with INSERT",
+            "Subquery with WHERE",
+            "Subquery with DELETE",
+            "Subquery with UPDATE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "imageKey": "Finance-and-Accounting.webp",      
+      "image":"Finance-and-Accounting.webp",
+      "title": "Financial Management of Project Training",
+      "lesson": "8 Lessons",
+      "duration": "6 weeks",
+      "priceLevel":"paid",
+      "level": "Beginner",
+      "author": "by Dataventics",
+      "ratings":"RATINGS.png",
+      "fees": "tag.webp",
+      "category": "Finance",
+      
+       "description2":"Through our initiatives, we aim to bridge educational gaps. We are committed to making a positive impact on education globally improve learning outcomes.",
+       "description": "After successfully completion of course, Quizes, Practical Performance you will receive a Certificate of Completion. Which will be the proof of that you have completed the courses successfully and you know the fundamentals of the courses.",
+      "price": "RS.399/-",
+      "instructor": "Vineet & Khijendra",
+      "totalLessons": 10,
+      "courseDuration": "40 hrs",
+      "courseLevel": "Beginners",
+      "language": "English",
+      "users": "50k+users",
+      "video" :"htmlvedio.mp4",
+      "accordionData": [
+        {
+         
+          "header": "Financial Management & Investment Management",
+          "body": [
+            "Corporate Finance",
+            "Financial Risk Management",
+            "Working Capital Management",
+            "Portfolio Management",
+            "Asset Management",
+            "Investment Banking"]
+        },
+        {
+          "header": "Financial Analysis & Financial Markets and Instruments",
+          "body": [
+          "Financial Statement Analysis",
+          "Credit Analysis",
+          "Quantitative Methods in Finance",
+          "Equity Markets",
+          "Fixed Income Markets",
+          "Derivatives and Options"
+          
+          ]
+        },
+        {
+          "header": "Banking and Financial Services",
+          "body": [
+            "Retail Banking",
+            "Commercial Banking",
+            "Financial Services Marketing"
+          ]
+        },
+        {
+          "header": "International Finance & Financial Modeling",
+          "body": [
+          "International Financial Management",
+          "Global Markets and Institutions",
+          "Cross-Border Mergers and Acquisitions",
+          "Excel for Finance",
+          "Financial Modeling Techniques",
+          "Valuation Methods"
+        ]
+        },
+        {
+          "header": "Fintech and Blockchain",
+          "body": [
+            "Financial Technology",
+            "Blockchain and Cryptocurrencies",
+            "Digital Banking"
+  
+          ]
+        },
+        {
+          "header": "Insurance and Risk Management",
+          "body": [
+            "Insurance Principles and Practices",
+            "Risk Management Strategies",
+            "Actuarial Science"
+          ]
+        },
+        {
+          "header": "Real Estate Finance & Behavioral Finance",
+          "body": [
+            "Real Estate Investment and Financing",
+            "Property Valuation",
+            "Real Estate Development",
+            "Behavioral Economics",
+            "Investor Psychology",
+            "Creating Roles",
+            "Decision Making in Finance"]
+        },
+        {
+          "header": "Ethics in Finance",
+          "body": [
+            "Professional Ethics in Finance",
+            "Corporate Governance",
+            "Regulatory Compliance"
+          ]
+        }
+      ]
+    }]}
